@@ -17,6 +17,10 @@ public class Strings {
         String txt3 = "Please locate where 'locate' occurs!";
         System.out.println(txt3.indexOf("locate"));
 
+        //Concatenation
+        String firstName = "John ";
+        String lastName = "Doe";
+        System.out.println(firstName.concat(lastName));
         
     }
 }
