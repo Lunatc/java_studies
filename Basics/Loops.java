@@ -15,5 +15,12 @@ public class Loops{
         for(int j = 0; j < 5; j++){
             System.out.println(i);
         }
+
+        //for each
+
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        for (String n : cars){
+            System.out.println(n);
+        }
     }
 }
