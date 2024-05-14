@@ -1,3 +1,5 @@
+//add all of the numbers up to 10
+
 public class Recursion{
     public static void main(String[] args){
         int result = sum(10);
